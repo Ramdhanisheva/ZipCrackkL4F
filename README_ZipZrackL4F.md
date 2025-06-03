@@ -100,6 +100,6 @@ ZIP-Tool-GUI-L4F/
 ## 👤 Author
 
 Created by **Ramdhanisheva**  
-Email: ramdhanisheva@example.com
+Email: ramdhanisheva@gmail.com
 
 Lisensi: MIT
